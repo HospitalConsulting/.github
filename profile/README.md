@@ -1,0 +1,1 @@
+Welcome to Hospital Consulting's development organization! Here you can find the various projects that we are currently occupied with. If you are interested in helping us out, feel free to contact us on GitHub!
